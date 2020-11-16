@@ -3,7 +3,7 @@ package OOPConceptPart1;
 public class StaticVsNonStatic_5 {
 	
 	String name = "Tom";
-	static int age = 42;
+	static int age = 12;
 
 	public static void main(String[] args) {
 

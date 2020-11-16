@@ -13,8 +13,8 @@ public class ConstructorWithThisKeyword_7 {
 	}
 	
 	public static void main(String[] args) {
-		ConstructorWithThisKeyword_7 obj = new ConstructorWithThisKeyword_7("Ani", 42);
-		ConstructorWithThisKeyword_7 obj1 = new ConstructorWithThisKeyword_7("Mou", 32);		
+		ConstructorWithThisKeyword_7 obj = new ConstructorWithThisKeyword_7("Tom", 12);
+		ConstructorWithThisKeyword_7 obj1 = new ConstructorWithThisKeyword_7("Mike", 22);		
 	}
 
 }

@@ -14,20 +14,20 @@ public class Human_1 {
 		//new Human() -- this is the object of Human class
 		//new keyword is used to create the object
 		//ani, mou -- are the reference variables
-		Human_1 ani = new Human_1();
-		Human_1 mou = new Human_1();
+		Human_1 obj = new Human_1();
+		Human_1 obj1 = new Human_1();
 		
-		ani.weight = 62.5;
-		ani.height = 5.5;
+		obj.weight = 62.5;
+		obj.height = 5.5;
 		
-		mou.height=5.00;
-		mou.weight=50.00;
+		obj1.height=5.00;
+		obj1.weight=50.00;
 		
-		System.out.println(ani.height);
-		System.out.println(ani.weight);	
+		System.out.println(obj.height);
+		System.out.println(obj.weight);	
 		
-		System.out.println(mou.height);
-		System.out.println(mou.weight);	
+		System.out.println(obj1.height);
+		System.out.println(obj1.weight);	
 	}
 
 }
